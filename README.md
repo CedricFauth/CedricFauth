@@ -13,12 +13,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Home_Assignment_1.nosync 21 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/11/2023 04:04:39 UTC
+ Last Updated on 27/11/2023 04:08:07 UTC
 <!--END_SECTION:waka-->
