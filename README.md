@@ -13,13 +13,12 @@
 
 ```text
 💬 Programming Languages: 
-Python                   29 mins             ████████████████████░░░░░   80.01 % 
-Image (svg)              7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-KG_based_News_Monitoring.37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/06/2025 04:16:55 UTC
+ Last Updated on 05/06/2025 04:18:05 UTC
 <!--END_SECTION:waka-->
