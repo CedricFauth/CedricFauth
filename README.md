@@ -13,15 +13,18 @@
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 29 mins       █████████████████████████   98.87 % 
-Makefile                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Svelte                   3 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.93 % 
+Go                       2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
+TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🐱‍💻 Projects: 
-mal                      7 hrs 34 mins       █████████████████████████   99.99 % 
-golang                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+race-day-prep            3 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.57 % 
+mal                      2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
+race-day-planner         56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 ```
 
 
- Last Updated on 22/02/2026 05:10:56 UTC
+ Last Updated on 23/02/2026 05:20:33 UTC
 <!--END_SECTION:waka-->
