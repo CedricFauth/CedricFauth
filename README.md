@@ -13,18 +13,18 @@
 
 ```text
 💬 Programming Languages: 
-Svelte                   3 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.93 % 
-Go                       2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Svelte                   3 hrs 13 mins       █████████████░░░░░░░░░░░░   51.88 % 
+Go                       2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.29 % 
+TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🐱‍💻 Projects: 
-race-day-prep            3 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.57 % 
-mal                      2 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
-race-day-planner         56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+race-day-prep            3 hrs 13 mins       █████████████░░░░░░░░░░░░   51.65 % 
+mal                      2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.29 % 
+race-day-planner         56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 ```
 
 
- Last Updated on 23/02/2026 05:20:33 UTC
+ Last Updated on 24/02/2026 05:16:40 UTC
 <!--END_SECTION:waka-->
