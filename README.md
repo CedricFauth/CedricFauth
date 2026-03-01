@@ -13,17 +13,17 @@
 
 ```text
 💬 Programming Languages: 
-Svelte                   4 hrs 17 mins       ███████████████████░░░░░░   77.41 % 
-TypeScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Svelte                   4 hrs 19 mins       ███████████████████░░░░░░   76.94 % 
+TypeScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-race-day-prep            4 hrs 36 mins       █████████████████████░░░░   83.07 % 
-race-day-planner         56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+race-day-prep            4 hrs 41 mins       █████████████████████░░░░   83.32 % 
+race-day-planner         56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 ```
 
 
- Last Updated on 28/02/2026 04:46:04 UTC
+ Last Updated on 01/03/2026 05:13:32 UTC
 <!--END_SECTION:waka-->
