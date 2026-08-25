@@ -4,10 +4,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-🌆 Daytime                436 commits         █████████░░░░░░░░░░░░░░░░   37.39 % 
-🌃 Evening                461 commits         ██████████░░░░░░░░░░░░░░░   39.54 % 
-🌙 Night                  195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+🌞 Morning                74 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+🌆 Daytime                436 commits         █████████░░░░░░░░░░░░░░░░   37.26 % 
+🌃 Evening                465 commits         ██████████░░░░░░░░░░░░░░░   39.74 % 
+🌙 Night                  195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
 
@@ -15,39 +15,41 @@
 
 ```text
 💬 Programming Languages: 
-Python                   46 mins             ████████████░░░░░░░░░░░░░   46.85 % 
-TOML                     46 mins             ████████████░░░░░░░░░░░░░   46.63 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Python                   46 mins             ██████████░░░░░░░░░░░░░░░   40.54 % 
+TOML                     46 mins             ██████████░░░░░░░░░░░░░░░   40.34 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🐱‍💻 Projects: 
-drag                     1 hr 36 mins        ████████████████████████░   96.73 % 
-python-fact-grounded-codi3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+drag                     1 hr 51 mins        ████████████████████████░   97.17 % 
+python-fact-grounded-codi3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (59.26%)
+⏱ AI Coding Time: 1 hr 4 mins (55.89%)
 
-✍️ 22 lines written by AI, 78 lines written by hand (22.0% AI-written)
+✍️ 22 lines written by AI, 79 lines written by hand (21.78% AI-written)
 
-🔤 123,329 Input Tokens, 195 Output Tokens
+🔤 194,040 Input Tokens, 1,981 Output Tokens
 
-💵 $0.37 Estimated AI Cost This Week
+💵 $0.72 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 18 AI Prompts
+🧠 5 AI Sessions, 20 AI Prompts
 
-Github-Copilot           47 lines            █████████████████████████   100.00 % 
+Github-Copilot           47 lines            ████████████████████████░   94.00 % 
+Nemotron                 3 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.0% of written lines came from AI
-📝 Concise Prompter — average 64 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 68.55% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 21.78% of written lines came from AI
+📝 Concise Prompter — average 169 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 68.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 04:33:30 UTC
+ Last Updated on 25/08/2026 04:26:50 UTC
 <!--END_SECTION:waka-->
