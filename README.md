@@ -15,40 +15,41 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     57 mins             ██████████████████████░░░   89.58 % 
-TOML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Rust                     1 hr 24 mins        █████████████████░░░░░░░░   69.03 % 
+Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-crab_generator           52 mins             ████████████████████░░░░░   81.30 % 
-crab_site                12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+crab_generator           1 hr                ████████████░░░░░░░░░░░░░   49.88 % 
+ssg                      49 mins             ██████████░░░░░░░░░░░░░░░   40.26 % 
+crab_site                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (51.9%)
+⏱ AI Coding Time: 1 hr 16 mins (62.98%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 132,921 Input Tokens, 18,742 Output Tokens
+🔤 181,865 Input Tokens, 53,628 Output Tokens
 
-💵 $1.58 Estimated AI Cost This Week
+💵 $3.28 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 5 AI Sessions, 13 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
+📄 Detailed Prompter — average 641 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 08:11:10 UTC
+ Last Updated on 13/09/2026 08:35:14 UTC
 <!--END_SECTION:waka-->
