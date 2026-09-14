@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2051%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -15,41 +15,39 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 24 mins        █████████████████░░░░░░░░   69.03 % 
-Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 2 hrs 2 mins        █████████████████░░░░░░░░   67.27 % 
+Rust                     59 mins             ████████░░░░░░░░░░░░░░░░░   32.64 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-crab_generator           1 hr                ████████████░░░░░░░░░░░░░   49.88 % 
-ssg                      49 mins             ██████████░░░░░░░░░░░░░░░   40.26 % 
-crab_site                12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+ssg                      2 hrs 52 mins       ████████████████████████░   95.30 % 
+crab_generator           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (62.98%)
+⏱ AI Coding Time: 2 hrs 32 mins (83.8%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 43 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 181,865 Input Tokens, 53,628 Output Tokens
+🔤 244,455 Input Tokens, 83,958 Output Tokens
 
-💵 $3.28 Estimated AI Cost This Week
+💵 $5.28 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 6 AI Sessions, 28 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     66 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 641 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,092 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 08:35:14 UTC
+ Last Updated on 14/09/2026 09:19:09 UTC
 <!--END_SECTION:waka-->
