@@ -15,36 +15,40 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 54 mins        █████████████████████████   98.66 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Rust                     2 hrs 58 mins       ████████████████████████░   97.65 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-ssg                      1 hr 56 mins        █████████████████████████   100.00 % 
+ssg                      1 hr 56 mins        ████████████████░░░░░░░░░   63.76 % 
+homeinfo                 1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   36.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (80.72%)
+⏱ AI Coding Time: 2 hrs 2 mins (67.21%)
 
-✍️ 8 lines written by AI, 40 lines written by hand (16.67% AI-written)
+✍️ 8 lines written by AI, 139 lines written by hand (5.44% AI-written)
 
-🔤 33,039 Input Tokens, 11,102 Output Tokens
+🔤 121,124 Input Tokens, 13,453 Output Tokens
 
-💵 $0.52 Estimated AI Cost This Week
+💵 $0.82 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 36 AI Prompts
+🧠 4 AI Sessions, 43 AI Prompts
 
 Sonnet                   8 lines             █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.67% of written lines came from AI
-📄 Detailed Prompter — average 869 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🔍 Hands-On Reviewer — 86.67% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 5.44% of written lines came from AI
+📄 Detailed Prompter — average 751 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🔍 Hands-On Reviewer — 95.7% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 08:51:52 UTC
+ Last Updated on 23/09/2026 08:53:18 UTC
 <!--END_SECTION:waka-->
