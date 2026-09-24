@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2042%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -15,40 +15,40 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     2 hrs 58 mins       ████████████████████████░   97.65 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Rust                     3 hrs 27 mins       ████████████████████████░   97.98 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-ssg                      1 hr 56 mins        ████████████████░░░░░░░░░   63.76 % 
-homeinfo                 1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   36.24 % 
+ssg                      1 hr 56 mins        ██████████████░░░░░░░░░░░   54.88 % 
+homeinfo                 1 hr 35 mins        ███████████░░░░░░░░░░░░░░   45.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 2 mins (67.21%)
+⏱ AI Coding Time: 2 hrs 15 mins (63.7%)
 
-✍️ 8 lines written by AI, 139 lines written by hand (5.44% AI-written)
+✍️ 39 lines written by AI, 214 lines written by hand (15.42% AI-written)
 
-🔤 121,124 Input Tokens, 13,453 Output Tokens
+🔤 207,105 Input Tokens, 13,961 Output Tokens
 
-💵 $0.82 Estimated AI Cost This Week
+💵 $1.09 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 43 AI Prompts
+🧠 5 AI Sessions, 51 AI Prompts
 
-Sonnet                   8 lines             █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           31 lines            ████████████████████░░░░░   79.49 % 
+Sonnet                   8 lines             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.44% of written lines came from AI
-📄 Detailed Prompter — average 751 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 95.7% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 15.42% of written lines came from AI
+📄 Detailed Prompter — average 722 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🔍 Hands-On Reviewer — 90.78% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 08:53:18 UTC
+ Last Updated on 24/09/2026 08:49:02 UTC
 <!--END_SECTION:waka-->
