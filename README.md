@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2054%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -15,40 +15,40 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     3 hrs 27 mins       ████████████████████████░   97.98 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Rust                     3 hrs 51 mins       █████████████████████████   98.18 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-ssg                      1 hr 56 mins        ██████████████░░░░░░░░░░░   54.88 % 
-homeinfo                 1 hr 35 mins        ███████████░░░░░░░░░░░░░░   45.12 % 
+homeinfo                 1 hr 59 mins        █████████████░░░░░░░░░░░░   50.72 % 
+ssg                      1 hr 56 mins        ████████████░░░░░░░░░░░░░   49.28 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 15 mins (63.7%)
+⏱ AI Coding Time: 2 hrs 23 mins (60.85%)
 
-✍️ 39 lines written by AI, 214 lines written by hand (15.42% AI-written)
+✍️ 96 lines written by AI, 285 lines written by hand (25.2% AI-written)
 
-🔤 207,105 Input Tokens, 13,961 Output Tokens
+🔤 386,896 Input Tokens, 15,135 Output Tokens
 
-💵 $1.09 Estimated AI Cost This Week
+💵 $1.65 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 51 AI Prompts
+🧠 6 AI Sessions, 55 AI Prompts
 
-Github-Copilot           31 lines            ████████████████████░░░░░   79.49 % 
-Sonnet                   8 lines             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Github-Copilot           88 lines            ███████████████████████░░   91.67 % 
+Sonnet                   8 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.42% of written lines came from AI
-📄 Detailed Prompter — average 722 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 90.78% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.2% of written lines came from AI
+📄 Detailed Prompter — average 699 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 82.67% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 08:49:02 UTC
+ Last Updated on 25/09/2026 09:09:03 UTC
 <!--END_SECTION:waka-->
